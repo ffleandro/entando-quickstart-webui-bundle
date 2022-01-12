@@ -1,0 +1,5 @@
+code: quickstart-webui-bundle
+description: WebUI Quickstart Bundle
+components:
+  plugins:
+    - plugins/dev-workspace-plugin.yaml

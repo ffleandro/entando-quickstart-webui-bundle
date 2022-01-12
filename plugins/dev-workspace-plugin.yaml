@@ -1,0 +1,7 @@
+name: entando-webui-development-workspace-plugin
+image: 'docker.io/ffleandro/entando-webui-dev-workspace-plugin:0.0.1'
+dbms: none
+healthCheckPath: /health
+ingressPath: /webui
+roles: []
+permissions: []
